@@ -1,1 +1,1 @@
-Python 3 demos made while going over documentation. 
+Python 3 demos made for testing Music21.
