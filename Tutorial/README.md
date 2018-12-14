@@ -1,1 +1,2 @@
-Some various tutorials I went through while preparing for the project. 
+# Tutorials
+- ```TFBasics.py``` goes through some basic operations entailing TensorFlow 1.3.0 and Jupyter Notebooks
