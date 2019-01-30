@@ -2,7 +2,7 @@
 # Chapter 4:
 # URL: http://web.mit.edu/music21/doc/usersGuide/usersGuide_04_stream1.html
 
-from music21 import *
+import music21
 
 # Create note objects
 # Note: Can't repeat used objects
